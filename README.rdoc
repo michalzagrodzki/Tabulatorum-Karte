@@ -7,6 +7,6 @@ Ruby version: 2.1.5p273
 Rails verstion: 4.2.0
 
 System dependencies
-  - gem gmap4rails
+  - gem 'gmap4rails'
   - underscore.js
 
